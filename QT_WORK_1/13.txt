@@ -1,0 +1,2 @@
+"Python does not need explicit declaration.
+x=5 -> python auto_declares variables when you assign."
