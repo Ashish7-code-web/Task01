@@ -1,0 +1,5 @@
+"int → whole numbers (e.g., 3, 855)
+
+float → decimal numbers (e.g., 2.564728)
+
+complex → numbers with real + imaginary part (e.g., 2+3j, 6j)"
