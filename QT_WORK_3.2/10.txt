@@ -1,0 +1,1 @@
+"False.Because Python allows assignment directly without declaration."
